@@ -1,0 +1,3 @@
+﻿  encapsulamiento.cpp
+D:\DSI209\Escritorio\proyecto git\encapsulamiento\encapsulamiento\encapsulamiento.cpp(50,9): warning C4101: 'b': variable local sin referencia
+  encapsulamiento.vcxproj -> D:\DSI209\Escritorio\proyecto git\encapsulamiento\Debug\encapsulamiento.exe
